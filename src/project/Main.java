@@ -17,11 +17,7 @@ public class Main {
         {
             int num = random.nextInt(45) + 1;
             
-<<<<<<< HEAD
             /*생성된 목록에 포함되어 있지 않으면 */
-=======
-            ////생성된 목록에 포함되어 있지 않으면 추가
->>>>>>> hotfix2
             if(!contains(generated, num))
             {
                 result[index++] = num;
