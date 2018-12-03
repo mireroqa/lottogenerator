@@ -7,3 +7,5 @@ This is Lotto Generate
 * 자세한 설명이 필요함 
 * 이번엔 이슈와 연결을 위해서 작업
 * 이것도 이슈랑 연결이 됩니까?
+
+# 새로운 pull request
