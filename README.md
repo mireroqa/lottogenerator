@@ -9,3 +9,4 @@ This is Lotto Generate
 * 이것도 이슈랑 연결이 됩니까?
 
 # 새로운 pull request
+# 또다른 pull request
